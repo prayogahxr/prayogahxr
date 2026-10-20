@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://harmowizu.my.id"><img src="https://img.shields.io/badge/HarmoWizu-harmowizu.my.id-2E2866?style=for-the-badge&labelColor=F4EDDA&color=2E2866" alt="HarmoWizu"/></a>
   <img src="https://img.shields.io/badge/Based_in-Jakarta-3D3380?style=for-the-badge" alt="Jakarta"/>
-  <img src="https://komarev.com/ghpvc/?username=prayogahxr&style=for-the-badge&color=2252D2&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ### `> whoami`
