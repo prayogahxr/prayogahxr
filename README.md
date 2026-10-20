@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://harmowizu.my.id"><img src="./assets/banner.svg" alt="Muhammad Prayoga, founder of HarmoWizu" width="100%"/></a>
+  <a href="https://harmowizu.my.id"><img src="./assets/banner.svg" alt="Prayoga, founder of HarmoWizu" width="100%"/></a>
 </p>
 
 <p align="center">
