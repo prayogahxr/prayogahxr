@@ -25,10 +25,13 @@ const prayoga = {
 
 ### `> ls ./shipped`
 
-- **HarmoWizu site.** A voxel world you scroll through, with a blocky character walking from one service to the next. React, R3F, GSAP.
-- **Kos management.** Monthly bills, numbered receipts, contracts and payment proofs for a 12-room boarding house. Workers, Hono, D1, R2.
-- **Music studio booking.** Live slot booking, check-in, refunds, and a cron job that marks no-shows on its own. Workers, Hono, D1.
-- **[DuitGue](https://github.com/prayogahxr/duitgue).** Reads BCA and GoPay statements in the browser and shows where the money went. Nothing leaves your device.
+<a href="https://harmowizu.my.id"><img src="./assets/project-harmowizu.svg" alt="HarmoWizu studio website: a voxel world you scroll through" width="100%"/></a>
+
+<img src="./assets/project-kos.svg" alt="Kos management app: type the password and the rooms light up" width="100%"/>
+
+<img src="./assets/project-studio.svg" alt="Music studio booking: pick a slot, lock it, confirm on WhatsApp" width="100%"/>
+
+<a href="https://github.com/prayogahxr/duitgue"><img src="./assets/project-duitgue.svg" alt="DuitGue: where did my money go?" width="100%"/></a>
 
 ### `> cat stack.txt`
 
